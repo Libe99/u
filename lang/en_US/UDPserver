@@ -1,0 +1,150 @@
+# MENU
+a1='UDPserver SCRIPT'
+a2='PUERTOS EXCLUIDOS'
+a3='DESINSTALAR UDPserver'
+a4='START/STOP UDPserver'
+a5='REMOVER SCRIPT'
+a6='CREAR CLIENTE'
+a7='REMOVER CLIENTE'
+a8='RENOVAR CLIENTE'
+a9='LOCK/UNLOCK CLIENTE'
+a10='DETALLE CLIENTE'
+a11='LIMITADOR CUENTAS'
+a12='EXCLUSION PUERTOS'
+a13='AGREGAR PUERTO EXCLUIDO'
+a14='REMOVER PUERTO EXCLUIDO'
+a15='INSTALAR UDPserver'
+
+# install_UDP
+a16='INSTALACION UDPserver'
+a17='instalacion completa'
+a18='fail to run service'
+a19='Failed to download udpServer binary'
+
+# exclude
+a20='Excluir puertos UDP'
+a21='UDPserver cubre todo los rangos de los puertos'
+a22='Puedes excluir puertos UDP'
+a23='Ejemplos de puertos excluidos'
+a24='Escribe los puertos separados por espacios'
+a25='Ejemplo'
+a26='escribe los puertos o enter para continuar'
+a27='puerto a excluir'
+a28='no es un puerto'
+a29='sin puertos excluidos'
+
+# download_udpServer
+a30='Downloading UDPserver binary'
+
+# make_service
+a31='Running UDPserver service'
+
+# uninstall_UDP
+a32='DESINSTALADOR UDPserver'
+a33='QUIERES DESINSTALAR UDPserver? [Y/N]'
+a34='desinstalacion completa!'
+
+# reset
+a35='UDPserver stopped!'
+a36='UDPserver started!'
+a37='Failed to start UDPserver!'
+
+# QUIC_SCRIPT
+a38='UDPserver SCRIPT UNINSTALLER'
+a39='DO YOU WANT TO UNINSTALL THE UDPserver SCRIPT? [Y/N]'
+a40='COMPLETE UNINSTALL'
+
+# new_user
+a41='Usuario'
+a42='Password'
+a43='Duracion en dias'
+a44='Limite'
+a45='Usuario creado exitosamente'
+a46='Error, usuario no creado'
+a47='Server IP'
+a48='Usuario'
+a49='Password'
+a50='Dias de Duracion'
+a51='Fecha de expiracion'
+
+# remove_user
+a56='removido'
+a57='no removido'
+
+# renew_user
+a58='Nuevo tiempo de duracion'
+
+# block_user
+a59='Selecciona'
+a60='Bloqueado'
+a61='Desbloqueado'
+
+# detail_user
+a62='Usuario no registrado'
+a63='DETALLES DE USUARIO'
+
+# limiter
+a64='LIMITADOR MULTI-LOGIN'
+a65='LiMITE EXPIRADO'
+a66='LIMITE LOG'
+a67='opcion'
+a68='limiter stopped'
+a69='CONFIGURAR LIMITADOR'
+a70='Bloquear usuarios cuando excedan'
+a71='el maximo de conexiones'
+a72='Ejecutar el limitador cada '
+a73='Solo numeros'
+a74='Minimo 1 minuto'
+a75='Ejecutar limitador cada'
+a76='minutos'
+a77='Users blocked by limiter\nthey will be unlocked automatically\n(enter 0 for manual unlock)'
+a78='Desbloquear usuarios cada'
+a79='Desbloquear'
+a80='manual'
+a81='Ejecutando limitador'
+a82='programmed expire limiter\nIt will run every day at 1:00 a.m.\naccording to the time scheduled on the server'
+a83='expired limiter stopped'
+a84='REGISTRO DE LIMITE'
+a85='ningun registro'
+a86='Presione enter para continuar'
+a87='0 para limpiar el registro'
+
+# quit_exclude
+a88='REMOVER PUERTO'
+a89='REGRESAR'
+a90='REMOVER TODOS'
+a91='Remover todos los puertos excluidos'
+
+# data_user
+a96='NO HAY USUARIOS SSH REGISTRADOS'
+a97='Fecha'
+a98='Dia'
+a99='Desconocido'
+
+# renew_user_fun
+a100='Usuario renovado'
+a101='Error, Usuario no renovado'
+
+# otro
+a52='Escribe o selecciona un usuario'
+a53='Selecciona una opcion'
+a54='Error, Usuario invalido'
+a55='Usuario Seleccionado'
+a92='REINICIANDO VPS EN'
+a93='SEGUNDOS'
+a94='este script no es compatible con tu sistema operativo'
+a95='Usa Ubuntu 20 o superior'
+a102='INSTALACION COMPLETA'
+a103='USA EL COMANDO \nudp\npara ejecutar el menu'
+
+
+
+
+
+
+
+
+
+
+
+
